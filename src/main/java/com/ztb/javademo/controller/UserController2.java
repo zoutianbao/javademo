@@ -19,6 +19,7 @@ public class UserController2 {
     @RequestMapping(value = "/registry/{userName}/{pwd}",method = RequestMethod.GET )
     public String  registry(@PathVariable String userName,String  pwd){
         int a=1;
+        int b=2;
         String a="zouqimeng";
         int v=2;
         return "success";

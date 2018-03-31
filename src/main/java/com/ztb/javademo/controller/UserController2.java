@@ -20,6 +20,7 @@ public class UserController2 {
     public String  registry(@PathVariable String userName,String  pwd){
         int a=1;
         String a="zouqimeng";
+        int v=2;
         return "success";
     }
 }

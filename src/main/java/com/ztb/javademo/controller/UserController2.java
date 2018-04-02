@@ -1,6 +1,6 @@
 package com.ztb.javademo.controller;
 
-import com.ztb.javademo.UserEntity.UserEntity;
+import Model.UserEntity;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
